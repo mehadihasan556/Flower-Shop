@@ -27,3 +27,18 @@ font-weight:bolder;}
 gap:50px;}
 
 .flowers{display:block;}
+
+/* main part styles */
+.main{max-width: 1920px;
+margin:0 auto;}
+
+.color{color:#E55473;}
+
+.hot-deals{display:flex;
+align-items:center;
+text-align: center;}
+.section-title{text-align: center;}
+.text-description{text-align: center;}
+
+.flower-container{display: flex;
+gap: 24px;}
